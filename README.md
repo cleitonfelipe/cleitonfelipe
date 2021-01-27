@@ -4,7 +4,7 @@ Eu sou Cleiton Felipe de Moraes ou o Black Coder como está no meu canal.
 
 - 🔭 Atualmente sou Engenheiro de Software na @GFT Brasil
 - 👯 Estou sempre buscando maneiras de compartilhar conteúdos nas comunidades técnicas com palestras, no meu blog e no recentemente meu Canal do Youtube
-- 🤔 Estou procurando ajuda sem que posso com assuntos técnicos de nuvem e desenvolvimento e na inclusão e diversidade no mundo de T.I.
+- 🤔 Estou procurando ajudar em que posso com assuntos técnicos de nuvem e desenvolvimento e na inclusão e diversidade no mundo de T.I.
 - 💬 Pergunte-me sobre Azure, AWS, C #, Xamarin, DDD, TDD, BDD e outros.:
 - ⚡ Curiosidade: já fui grafiteiro e skatista, sou de Sorocaba, São Paulo, meu time preferido é o Cruzeiro Esporte Clube - Minas Gerais e atualmente moro em Curitiba, Paraná
 
