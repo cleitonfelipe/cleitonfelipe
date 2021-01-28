@@ -16,14 +16,12 @@ Eu sou Cleiton Felipe de Moraes ou o Black Coder como está no meu canal.
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/the_black_coder/)](https://www.instagram.com/the_black_coder/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/cleitonfmoraes/)](https://www.facebook.com/cleitonfmoraes/)
 
 ### 📺 Vídeos no canal:
-
-<!-- YOUTUBE::START -->
-<!-- YOUTUBE::END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ### ✍Artigos do Medium
-
-<!-- MEDIUM::START -->
-<!-- MEDIUM::END -->
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 <!--
 
