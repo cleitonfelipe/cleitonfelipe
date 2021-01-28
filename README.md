@@ -17,13 +17,13 @@ Eu sou Cleiton Felipe de Moraes ou o Black Coder como está no meu canal.
 
 ### 📺 Vídeos no canal:
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE::START -->
+<!-- YOUTUBE::END -->
 
 ### ✍Artigos do Medium
 
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
+<!-- MEDIUM::START -->
+<!-- MEDIUM::END -->
 
 <!--
 
