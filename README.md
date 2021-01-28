@@ -17,6 +17,11 @@ Eu sou Cleiton Felipe de Moraes ou o Black Coder como está no meu canal.
 
 ### 📺 Vídeos no canal:
 <!-- YOUTUBE:START -->
+- [Como se certificar em AWS? - Cleiton Felipe | The Black Coder](https://www.youtube.com/watch?v=rO5L2jyUbQc)
+- [Bate-Papo Tech com Rogério Rodrigues MVP, MSP, Cloud, Azure, Blockchain e muito mais!](https://www.youtube.com/watch?v=3BhCMTGuJZI)
+- [Bate-Papo Tech com Carlos Mattos](https://www.youtube.com/watch?v=61zKdI18CGw)
+- [Començando com WPF no .Net Core](https://www.youtube.com/watch?v=R-nPvBVL11A)
+- [Windows Forms Design Preview ele está chegando!](https://www.youtube.com/watch?v=8qYbJGnIhRg)
 <!-- YOUTUBE:END -->
 
 ### ✍Artigos do Medium
