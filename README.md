@@ -10,27 +10,42 @@ Eu sou Cleiton Felipe de Moraes ou o Black Coder como está no meu canal.
 - ⚡ Curiosidade: já fui grafiteiro e skatista, sou de Sorocaba, São Paulo, meu time preferido é o Cruzeiro Esporte Clube - Minas Gerais e atualmente moro em Curitiba, Paraná.
 
 #### 📫 Onde me encontrar:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cleitonfelipe)](https://github.com/cleitonfelipe) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleiton-felipe-moraes-47555720/)](https://www.linkedin.com/in/cleiton-felipe-moraes-47555720/) [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@cleiton_felipe)](https://medium.com/@cleiton_felipe) [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/cleiton_felipe/)](https://www.instagram.com/cleiton_felipe/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/cleitonfelipedemoraes/)](https://www.facebook.com/cleitonfelipedemoraes/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/cleiton_felipe)](https://twitter.com/cleiton_felipe) 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cleitonfelipe)](https://github.com/cleitonfelipe) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleiton-felipe-moraes-47555720/)](https://www.linkedin.com/in/cleiton-felipe-moraes-47555720/) [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@cleiton_felipe)](https://medium.com/@cleiton_felipe) [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/cleiton_felipe/)](https://www.instagram.com/cleiton_felipe/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/cleitonfelipedemoraes/)](https://www.facebook.com/cleitonfelipedemoraes/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/cleiton_felipe)](https://twitter.com/cleiton_felipe)
 
 #### Instagram e Facebook Tech
+
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/the_black_coder/)](https://www.instagram.com/the_black_coder/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/cleitonfmoraes/)](https://www.facebook.com/cleitonfmoraes/)
 
-### 📺 Vídeos no canal:
+### Certificações e Licensas
+
+<img src="images/azure-fundamentals-600x600.png" alt="badge az-900" width="200" height="200">
+<img src="images/AWS-Developer-Associate-2020.png" alt="badge aws developer" width="200" height="200" >
+<img src="images/badge-mtac.png" alt="badge aws developer" width="200" height="200" >
+
+
+###📺 Vídeos no canal:
+
 <!-- YOUTUBE:START -->
+
 - [Criando um Pipeline de Build as Code no @Azure DevOps | Guia para Iniciantes](https://www.youtube.com/watch?v=J_fJzGDsVI4)
 - [Voltar a vida com Inteligência  Artificial?!?!?](https://www.youtube.com/watch?v=ctbOUtKFSzM)
 - [Criando um pipeline de CI no @GitHub | Guia de Iniciantes](https://www.youtube.com/watch?v=QGcuXYztFSA)
 - [Azure Day](https://www.youtube.com/watch?v=cdAIyIvlLc8)
 - [Dá pra usar o GitHub na empresa?](https://www.youtube.com/watch?v=yhADsC_fHRQ)
+
 <!-- YOUTUBE:END -->
 
 ### ✍Artigos do Medium
+
 <!-- MEDIUM:START -->
+
 - [Meu Canal está no Ar!](https://medium.com/@cleiton_felipe/meu-canal-est%C3%A1-no-ar-2f0bc0ede9dc?source=rss-9d79156957e6------2)
 - [[Dica — Xamarin] Corrigindo o erro: “PushAsync is not supported globally on (Android, IOS, UWP)…](https://medium.com/@cleiton_felipe/dica-xamarin-corrigindo-o-erro-pushasync-is-not-supported-globally-on-android-ios-uwp-31724895bcfe?source=rss-9d79156957e6------2)
 - [[DICA — C#/Série Certificação] — Manage Program Flow — Parte 7](https://medium.com/@cleiton_felipe/dica-c-s%C3%A9rie-certifica%C3%A7%C3%A3o-manage-program-flow-parte-7-df1f2c551a5b?source=rss-9d79156957e6------2)
 - [[DICA — C#/Série Certificação] — Manage Program Flow — Parte 6](https://medium.com/@cleiton_felipe/dica-c-s%C3%A9rie-certifica%C3%A7%C3%A3o-manage-program-flow-parte-6-4dc61ccc9d6e?source=rss-9d79156957e6------2)
 - [[Dica — C#] — Obtendo nome de classes em tempo de execução.](https://medium.com/@cleiton_felipe/dica-c-obtendo-nome-de-classes-em-tempo-de-execu%C3%A7%C3%A3o-eb4cacb06347?source=rss-9d79156957e6------2)
+
 <!-- MEDIUM:END -->
 
 <!--
