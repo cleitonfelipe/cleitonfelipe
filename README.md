@@ -19,9 +19,9 @@ Eu sou Cleiton Felipe de Moraes ou o Black Coder como está no meu canal.
 
 ### Certificações e Licensas
 
-<img src="images/azure-fundamentals-600x600.png" alt="badge az-900" width="150px" >
-<img src="images/AWS-Developer-Associate-2020.png" alt="badge aws developer" width="150px" >
-<img src="images/badge-mtac.png" alt="badge aws developer" width="150px" >
+<image src="images/azure-fundamentals-600x600.png" alt="badge az-900" width="150px" />
+<image src="images/AWS-Developer-Associate-2020.png" alt="badge aws developer" width="150px" />
+<image src="images/badge-mtac.png" alt="badge aws developer" width="150px" />
 
 
 ###📺 Vídeos no canal:
