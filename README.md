@@ -24,7 +24,7 @@ Eu sou Cleiton Felipe de Moraes ou o Black Coder como está no meu canal.
 <image src="images/badge-mtac.png" alt="badge aws developer" width="150px" />
 
 
-###📺 Vídeos no canal:
+### 📺 Vídeos no canal:
 
 <!-- YOUTUBE:START -->
 - [Como se certificar em AWS? - Cleiton Felipe | The Black Coder](https://www.youtube.com/watch?v=rO5L2jyUbQc)
