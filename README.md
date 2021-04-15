@@ -2,9 +2,9 @@
 
 Eu sou Cleiton Felipe de Moraes ou o Black Coder como está no meu canal.
 
-- 🔭 Atuo Engenheiro de Software
+- 🔭 Atuo como Engenheiro de Software.
 - 👯 Estou sempre buscando maneiras de compartilhar conteúdos nas comunidades técnicas com palestras, no [meu blog](https://medium.com/@cleiton_felipe) e recentemente no meu
-  [Canal do Youtube](https://www.youtube.com/c/CleitonFelipeTheBlackCoder)
+  [Canal do Youtube](https://www.youtube.com/c/CleitonFelipeTheBlackCoder).
 - 🤔 Estou procurando ajudar em que posso com assuntos dos tipos: Técnicos de nuvem e desenvolvimento e na inclusão e diversidade no mundo de T.I.
 - 💬 Pergunte-me sobre Azure, AWS, C# e isso engloba (ASP.NET, WinForms, Xamarin, .Net em geral), arquitetura, DDD, TDD, BDD e outros.
 - ⚡ Curiosidade: já fui grafiteiro e skatista, sou de Sorocaba, São Paulo, meu time preferido é o Cruzeiro Esporte Clube - Minas Gerais e atualmente moro em Curitiba, Paraná.
