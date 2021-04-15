@@ -2,7 +2,7 @@
 
 Eu sou Cleiton Felipe de Moraes ou o Black Coder como está no meu canal.
 
-- 🔭 Atualmente sou Engenheiro de Software na @GFT Brasil
+- 🔭 Atuo Engenheiro de Software
 - 👯 Estou sempre buscando maneiras de compartilhar conteúdos nas comunidades técnicas com palestras, no [meu blog](https://medium.com/@cleiton_felipe) e recentemente no meu
   [Canal do Youtube](https://www.youtube.com/c/CleitonFelipeTheBlackCoder)
 - 🤔 Estou procurando ajudar em que posso com assuntos dos tipos: Técnicos de nuvem e desenvolvimento e na inclusão e diversidade no mundo de T.I.
