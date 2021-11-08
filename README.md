@@ -25,7 +25,7 @@ Eu sou Cleiton Felipe de Moraes ou o Black Coder como está no meu canal.
 ### 📺 Vídeos no canal:
 
 <!-- YOUTUBE:START -->
-- [O inglês no dia-a-dia do dev(Preciso ou Não?) - Cleiton Felipe | The Black Coder](https://www.youtube.com/watch?v=16U_kycRgMM)
+- [O inglês no dia-a-dia do dev&lpar;Preciso ou Não?&rpar; - Cleiton Felipe | The Black Coder](https://www.youtube.com/watch?v=16U_kycRgMM)
 - [Como se certificar em AWS? - Cleiton Felipe | The Black Coder](https://www.youtube.com/watch?v=rO5L2jyUbQc)
 - [Bate-Papo Tech com Rogério Rodrigues MVP, MSP, Cloud, Azure, Blockchain e muito mais!](https://www.youtube.com/watch?v=3BhCMTGuJZI)
 - [Bate-Papo Tech com Carlos Mattos](https://www.youtube.com/watch?v=61zKdI18CGw)
