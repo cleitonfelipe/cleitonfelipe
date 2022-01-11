@@ -19,7 +19,7 @@ jobs:
           comment_tag_name: YOUTUBE
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC2w1iRs9Tt4hWRKNyOEPWwg"
           
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: MEDIUM
-          feed_list: "https://medium.com/feed/@cleiton_felipe"
+      #- uses: gautamkrishnar/blog-post-workflow@master
+      #  with:
+      #    comment_tag_name: MEDIUM
+      #    feed_list: "https://medium.com/feed/@cleiton_felipe"
